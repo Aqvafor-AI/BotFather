@@ -73,5 +73,6 @@
 
 ---
 
-**Автор**: [Ваше имя или псевдоним]  
-**GitHub**: [Ссылка на ваш репозиторий](https://github.com/yourusername/your-repo)
+**Автор**: [Aqvafor-AI](https://github.com/Aqvafor-AI)  
+**Репозиторий**: [github.com/Aqvafor-AI/BotFather](https://github.com/Aqvafor-AI/BotFather)
+
