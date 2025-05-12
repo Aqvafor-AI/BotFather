@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite DB
+*.db
+
+# Virtual environments
+venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# Configs/secrets
+config.py
+
+# Logs and temporary
+*.log
+*.pkl
